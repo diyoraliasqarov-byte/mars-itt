@@ -1,0 +1,93 @@
+.box {
+
+    display: flex;
+    gap: 205px;
+    border-radius: ;
+
+}
+
+header {
+    display: flex;
+}
+
+.xx {
+    border-radius: 20px;
+    border: 2px solid red;
+
+    background-color: transparent;
+
+}
+
+.magazin {
+    display: flex;
+    align-items: center;
+    color: blue;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 40px;
+
+}
+
+.magazin img {
+    width: 56px;
+}
+
+.section__head {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+
+}
+
+.clik {
+    border-radius: 20px;
+    padding: 15px 30px;
+    background-color: blue;
+    color: white;
+    margin-left: 20px;
+}
+
+.soat {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 32px;
+    color: #EF400F;
+
+}
+
+.form__input {
+    width: 386px;
+    height: 50px;
+    padding-left: 20px;
+    border-radius: 15px;
+    border: none;
+    background-color: black;
+
+}
+
+.section__card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 100px   ;
+}
+
+.card1 {
+    box-shadow: 0px 4px 13.3px 0px #00000040;
+    border-radius: 30px;
+    width: 290px;
+    height: 290px;
+    text-align: center;
+
+}
+
+.c1{
+    width: 184px;
+    height: 116px;
+
+}
